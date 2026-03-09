@@ -1,5 +1,5 @@
 # EU Compliance Rules for AI Coding Tools
-# Source: https://promptmaster.dev — Free EU compliance framework
+# Source: https://prompt-master.dev — Free EU compliance framework
 # License: MIT | See DISCLAIMER.md for limitations
 #
 # DISCLAIMER: This file provides general guidance only and does not
@@ -86,4 +86,4 @@ Add these comments to make compliance auditing easier:
 ---
 
 *For the full compliance framework with 60+ files, checklists, templates, and
-architectural guidance, visit [promptmaster.dev](https://promptmaster.dev).*
+architectural guidance, visit [prompt-master.dev](https://prompt-master.dev).*

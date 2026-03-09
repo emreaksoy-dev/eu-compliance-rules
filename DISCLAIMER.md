@@ -43,7 +43,7 @@ These rules cover triggers and reminders for:
 - **ePrivacy Directive** — Directive 2002/58/EC (as amended)
 
 For comprehensive compliance frameworks, templates, checklists, and
-architectural guidance, visit **[promptmaster.dev](https://promptmaster.dev)**.
+architectural guidance, visit **[prompt-master.dev](https://prompt-master.dev)**.
 
 ---
 

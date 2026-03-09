@@ -1,5 +1,5 @@
 # EU Compliance Rules for Cline
-# Source: https://promptmaster.dev — Free EU compliance framework
+# Source: https://prompt-master.dev — Free EU compliance framework
 # License: MIT | See DISCLAIMER.md for limitations
 #
 # DISCLAIMER: This file provides general guidance only and does not
@@ -47,4 +47,4 @@
 - `// AI_RISK_TIER: <unacceptable|high|limited|minimal>` — risk classification
 - `// CONSENT_REQUIRED: <yes|no — reason>` — consent requirement
 
-# Full framework: https://promptmaster.dev
+# Full framework: https://prompt-master.dev

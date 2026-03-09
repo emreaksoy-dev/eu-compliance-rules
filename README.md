@@ -94,14 +94,14 @@ These config files are compliance *triggers* — reminders to check the right th
 - Legal document templates (privacy policy, ToS, cookie policy)
 - Security guidelines and testing strategies
 
-**Visit [promptmaster.dev](https://promptmaster.dev)**
+**Visit [prompt-master.dev](https://prompt-master.dev)**
 
 ## Free Interactive Tools
 
-- [AI Act Classifier](https://promptmaster.dev/tools/ai-act-classifier) — Provider or Deployer? Find out in 2 minutes
-- [Compliance Checker](https://promptmaster.dev/tools/compliance-checker) — Full interactive compliance assessment
-- [Compliance Roadmap](https://promptmaster.dev/tools/compliance-roadmap) — Personalized EU compliance timeline
-- [Security Audit](https://promptmaster.dev/tools/security-audit) — Find vulnerabilities in AI-generated code
+- [AI Act Classifier](https://prompt-master.dev/tools/ai-act-classifier) — Provider or Deployer? Find out in 2 minutes
+- [Compliance Checker](https://prompt-master.dev/tools/compliance-checker) — Full interactive compliance assessment
+- [Compliance Roadmap](https://prompt-master.dev/tools/compliance-roadmap) — Personalized EU compliance timeline
+- [Security Audit](https://prompt-master.dev/tools/security-audit) — Find vulnerabilities in AI-generated code
 
 ## Contributing
 
@@ -119,4 +119,4 @@ Please keep the disclaimer header in all config files.
 
 ---
 
-*Built by [PromptMaster](https://promptmaster.dev) — Free tools and frameworks for vibe coders building EU-ready apps.*
+*Built by [PromptMaster](https://prompt-master.dev) — Free tools and frameworks for vibe coders building EU-ready apps.*

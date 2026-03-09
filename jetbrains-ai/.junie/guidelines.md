@@ -1,6 +1,6 @@
 # EU Compliance Rules for JetBrains AI / Junie
 
-> Source: [promptmaster.dev](https://promptmaster.dev) — Free EU compliance framework
+> Source: [prompt-master.dev](https://prompt-master.dev) — Free EU compliance framework
 > License: MIT | See DISCLAIMER.md for limitations
 >
 > **DISCLAIMER:** This file provides general guidance only and does not
@@ -56,4 +56,4 @@
 
 ---
 
-*Full framework with 60+ files: [promptmaster.dev](https://promptmaster.dev)*
+*Full framework with 60+ files: [prompt-master.dev](https://prompt-master.dev)*
