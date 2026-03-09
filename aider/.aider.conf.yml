@@ -1,0 +1,49 @@
+# EU Compliance Rules for Aider
+# Source: https://promptmaster.dev — Free EU compliance framework
+# License: MIT | See DISCLAIMER.md for limitations
+#
+# DISCLAIMER: This file provides general guidance only and does not
+# constitute legal advice. Always consult a qualified legal professional.
+#
+# Add to your .aider.conf.yml or reference in your system prompt.
+
+# Convention: EU Compliance Rules
+# --------------------------------
+#
+# GDPR Rules:
+# - NEVER store personal data without a documented legal basis
+# - ALL data collection MUST have explicit opt-in consent — no pre-ticked boxes
+# - Personal data MUST be deletable via user action (Art. 17)
+# - Default to data minimization: only collect what is strictly necessary
+# - Cookie/tracking consent MUST be opt-in with granular choices
+# - Third-party data sharing requires a DPA
+# - Encrypt personal data at rest and in transit
+# - No indefinite storage — implement retention policies
+#
+# AI Act Rules:
+# - Classify AI features by risk tier:
+#   BANNED: Social scoring, subliminal manipulation, real-time biometric ID
+#   High: Employment, credit, education, law enforcement AI
+#   Limited: Chatbots, content generation (transparency required)
+#   Minimal: Spam filters, search (no extra obligations)
+# - Label ALL AI-generated content shown to users
+# - High-risk AI: audit logging, human oversight, bias documentation
+# - Main enforcement: August 2, 2026
+#
+# Data Act Rules:
+# - Users MUST export ALL their data in machine-readable format (JSON/CSV)
+# - No dark patterns hindering data portability
+# - IoT data accessible to the generating user
+#
+# ePrivacy Rules:
+# - No cookies or tracking before consent
+# - Only essential cookies without consent (session, CSRF)
+# - Consent withdrawal as easy as giving it
+#
+# Code Annotations:
+# - // PII: <description>
+# - // LEGAL_BASIS: <consent|contract|legitimate_interest>
+# - // AI_RISK_TIER: <unacceptable|high|limited|minimal>
+# - // CONSENT_REQUIRED: <yes|no — reason>
+#
+# Full framework: https://promptmaster.dev
